@@ -1,0 +1,5 @@
+.env
+node_modules/
+data/jobs/*.json
+data/outputs/*.mp4
+__pycache__/
